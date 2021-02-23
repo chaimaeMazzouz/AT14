@@ -1,0 +1,10 @@
+C:\Users\MZ\source\repos\AT14\AT14\bin\Debug\AT14.exe.config
+C:\Users\MZ\source\repos\AT14\AT14\bin\Debug\AT14.exe
+C:\Users\MZ\source\repos\AT14\AT14\bin\Debug\AT14.pdb
+C:\Users\MZ\source\repos\AT14\AT14\obj\Debug\AT14.csprojAssemblyReference.cache
+C:\Users\MZ\source\repos\AT14\AT14\obj\Debug\AT14.Form1.resources
+C:\Users\MZ\source\repos\AT14\AT14\obj\Debug\AT14.Properties.Resources.resources
+C:\Users\MZ\source\repos\AT14\AT14\obj\Debug\AT14.csproj.GenerateResource.cache
+C:\Users\MZ\source\repos\AT14\AT14\obj\Debug\AT14.csproj.CoreCompileInputs.cache
+C:\Users\MZ\source\repos\AT14\AT14\obj\Debug\AT14.exe
+C:\Users\MZ\source\repos\AT14\AT14\obj\Debug\AT14.pdb
